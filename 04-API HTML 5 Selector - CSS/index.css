@@ -1,0 +1,14 @@
+.number {
+    font-family: monospace;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.numbers .col, .numbers .col-8, .numbers .col-4 {
+    border: 10px solid white;
+}
+
+.dice .form-control {
+    border: none;
+}
